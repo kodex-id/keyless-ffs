@@ -34,5 +34,5 @@ end
 local API = loadstring(game:HttpGet('https://sdkapi-public.luarmor.net/library.lua'))()
 API.script_id = script_id
 
--- BYPASS: Langsung load script tanpa sistem key sama sekali
+-- Key system sudah dihapus, langsung jalankan script utama
 API.load_script()
